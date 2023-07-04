@@ -98,3 +98,11 @@ This work were done essentially on a single-GPU the main guidelines will be in t
 #### Some tips to speed-up training
 * If your file system is slow to read images, you may consider enabling '--cache_mode' option to load whole dataset into memory at the beginning of training.
 * You may increase the batch size to maximize the GPU utilization, according to GPU memory of yours, e.g., set '--batch_size 3' or '--batch_size 4'.
+
+
+
+## Citation
+
+```
+@article{}
+```
