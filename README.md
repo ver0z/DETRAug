@@ -61,7 +61,7 @@ python test.py
 
 ### Dataset preparation
 
-We used the same from [Detect waste](https://github.com/wimlds-trojmiasto/detect-waste) as they use the same ways from COCO dataset. All image data is on [Google Drive](https://drive.google.com/file/d/1--3KQlz7-qJVL8UucaqQ10jKiXEBUrix/view?usp=drive_link) 
+We used the same from [Detect waste](https://github.com/wimlds-trojmiasto/detect-waste) as they use the same ways from COCO dataset. All image data is condensed in one file on [Google Drive](https://drive.google.com/file/d/1--3KQlz7-qJVL8UucaqQ10jKiXEBUrix/view?usp=drive_link) 
 
 Please download [COCO 2017 dataset](https://cocodataset.org/) and organize them as following:
 
