@@ -102,7 +102,7 @@ This work were done essentially on a single-GPU the main guidelines will be in t
 
 
 ## Citation
-
+Soon will be available the Proceedings of the paper. It was presented on the International Joint Conference on Neural Networks (IJCNN) 2023 that took place in Queensland, Australia! 
 ```
 @article{}
 ```
