@@ -3,8 +3,7 @@ Improving small object detection with DETRAug
 
 This repository is the of official implementation of the paper Improving small object detection with DETRAug (**DE**tection **TR**ansformer with **AUG**MIX). Thinking about the way DETR and even Deformable DETR perform their augmentation strategy, we can say that they use a really simple strategy of augmentation. Thinking way ahead we replace part of the original implementation with a more consistent augmentation technique used for classification, known as **AUGMIX**, adapted to object detection we could improve the performance.  
 
-
-![Fluxo_completo_atualizadi](https://github.com/ver0z/DETRAug/assets/23502680/a8c601c9-2091-48bf-ab94-234e0959266a)
+![Fluxo_completo_atualizadi](https://github.com/ver0z/DETRAug/assets/23502680/f15a1717-af6c-4d51-b4bd-b5c921db8697)
 
 
 ## Installation
