@@ -101,7 +101,15 @@ This work were done essentially on a single-GPU the main guidelines will be in t
 
 
 ## Citation
-Soon will be available the Proceedings of the paper. It was presented on the International Joint Conference on Neural Networks (IJCNN) 2023 that took place in Queensland, Australia! 
+It was presented on the International Joint Conference on Neural Networks (IJCNN) 2023 that took place in Queensland, Australia! 
 ```
-@article{}
+@INPROCEEDINGS{10191541,
+  author={Cunha, Evair and Macêdo, David and Zanchettin, Cleber},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Improving small object detection with DETRAug}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/IJCNN54540.2023.10191541}}
 ```
